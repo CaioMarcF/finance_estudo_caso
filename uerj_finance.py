@@ -1,6 +1,4 @@
-#para funcionar no vscode é preciso rodar o código: pip install 
 from bcb import sgs
-import pandas as pd
 import matplotlib.pyplot as plt
 
 
